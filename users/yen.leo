@@ -27,9 +27,94 @@
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
 <v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20161114103647.1"><vh>影片</vh>
+<v t="leo.20161114103647.2"><vh>solvespace零件繪製</vh></v>
 </v>
-<v t="leo.20161013184628.1" a="E"><vh>歡迎</vh>
-<v t="amd.20161004112026.1"><vh>歡迎</vh></v>
+<v t="leo.20161114103703.1"><vh>快捷鍵</vh>
+<v t="leo.20161114103703.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20161114103720.1"><vh>三大主題教學</vh>
+<v t="leo.20161114103720.2" a="E"><vh>主題教學</vh>
+<v t="leo.20161114103720.3"><vh>電腦輔助設計在教什麼?</vh></v>
+</v>
+<v t="leo.20161114103720.4" a="E"><vh>主題教學內容</vh>
+<v t="leo.20161114103720.5"><vh>電腦輔助設計在教什麼?</vh></v>
+</v>
+<v t="leo.20161114103720.6" a="E"><vh>相關課程</vh>
+<v t="leo.20161114103720.7"><vh>電腦輔助設計系列課程</vh></v>
+</v>
+<v t="leo.20161114103720.8" a="E"><vh>創造力</vh>
+<v t="leo.20161114103720.9"><vh>何謂創造力?</vh></v>
+</v>
+<v t="leo.20161114103720.10" a="E"><vh>創造力</vh>
+<v t="leo.20161114103720.11"><vh>何謂創造力?</vh></v>
+</v>
+<v t="leo.20161114103720.12" a="E"><vh>所謂自學</vh>
+<v t="leo.20161114103720.13"><vh>自學的訓練</vh></v>
+</v>
+<v t="leo.20161114103720.14" a="E"><vh>執行力</vh>
+<v t="leo.20161114103720.15"><vh>高效執行力</vh></v>
+</v>
+</v>
+<v t="leo.20161114103728.1"><vh>CADP 課程倉儲</vh>
+<v t="leo.20161114103728.2" a="E"><vh>課程時段與規劃</vh>
+<v t="leo.20161114103728.3"><vh>規劃、Wiki 與網誌</vh></v>
+</v>
+<v t="leo.20161114103728.4" a="E"><vh>下載 miniconda 可攜環境</vh>
+<v t="leo.20161114103728.5"><vh>下載可攜程式環境</vh></v>
+</v>
+<v t="leo.20161114103728.6" a="E"><vh>學員自評項目</vh>
+<v t="leo.20161114103728.7"><vh>下載可攜程式環境</vh></v>
+</v>
+</v>
+<v t="leo.20161114103736.1"><vh>電腦輔助設計課程內涵</vh>
+<v t="leo.20161114103736.2" a="E"><vh>電腦輔助設計課程內涵</vh>
+<v t="leo.20161114103736.3"><vh>CAD 教學主題</vh></v>
+</v>
+<v t="leo.20161114103736.4"><vh>Github pages 網頁</vh>
+<v t="leo.20161114103736.5"><vh>各學員任務</vh></v>
+</v>
+<v t="leo.20161114103736.6"><vh>所有操作都必須拍影片</vh>
+<v t="leo.20161114103736.7"><vh>操作影片</vh></v>
+</v>
+<v t="leo.20161114103736.8"><vh>Solvespace 操作練習</vh>
+<v t="leo.20161114103736.9"><vh>Solvespace 實習</vh></v>
+</v>
+<v t="leo.20161114103736.10"><vh>OnShape 操作練習</vh>
+<v t="leo.20161114103736.11"><vh>OnShape 實習</vh></v>
+</v>
+<v t="leo.20161114103736.12"><vh>Nutcracker 操作練習</vh>
+<v t="leo.20161114103736.13"><vh>OnShape 實習</vh></v>
+</v>
+<v t="leo.20161114103736.14" a="E"><vh>Delta Printer 組裝</vh>
+<v t="leo.20161114103736.15"><vh>機電資產品的設計考量</vh></v>
+</v>
+<v t="leo.20161114103736.16"><vh>網際自評系統</vh>
+<v t="leo.20161114103736.17"><vh>Flask 網際程式</vh></v>
+</v>
+</v>
+<v t="leo.20161114103743.1"><vh>協同力訓練</vh>
+<v t="leo.20161114103743.2" a="E"><vh>Github 帳號</vh>
+<v t="leo.20161114103743.3"><vh>Github 倉儲網頁</vh></v>
+</v>
+<v t="leo.20161114103743.4"><vh>倉儲子模組串連</vh>
+<v t="leo.20161114103743.5"><vh>學員作業網頁定版</vh></v>
+</v>
+<v t="leo.20161114103743.6"><vh>倉儲版本拉回請求</vh>
+<v t="leo.20161114103743.7"><vh>Github 倉儲拉回請求</vh></v>
+</v>
+</v>
+<v t="leo.20161114103749.1"><vh>各式內容引用範例</vh>
+<v t="leo.20161114103749.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20161114103749.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20161114103749.4" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20161114103749.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20161114103749.6" a="E"><vh>導入影片</vh>
+<v t="leo.20161114103749.7"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -188,17 +273,17 @@ print("hello")
 
 						
 </t>
-<t tx="amd.20161004095719.2">##2016Fall 電腦輔助設計實習課程
+<t tx="amd.20161004095719.2">#2016Fall cadp 
 
-## 虎尾科技大學機械設計工程系
+##電腦輔助設計實習課程
+
+### 虎尾科技大學機械設計工程系
 
 &lt;small&gt;
 Created by 四設二甲 40423122 林國蓁
-&lt;/small&gt;
-</t>
-<t tx="amd.20161004112026.1">歡迎
 
-						
+[Blog](https://40423122.github.io/2016fallcadp_hw/blog/index.html)
+&lt;/small&gt;
 </t>
 <t tx="leo.20151212173315.1"></t>
 <t tx="leo.20151212173315.2">QTreeWidget {
@@ -306,9 +391,485 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20151213230957.1"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
 
 DEFAULT_DATE = 'fs'</t>
-<t tx="leo.20161013184628.1">&lt;section&gt;
+<t tx="leo.20161114103647.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103647.2">[solvespace零件繪製](https://vimeo.com/189153746)</t>
+<t tx="leo.20161114103703.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103703.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20161114103720.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161114103720.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103720.11"># 何謂創造力?
+
+## 能夠&lt;small&gt;&lt;span style="color:#FF0080"&gt;持續&lt;/span&gt;&lt;/small&gt;自學-&gt;&lt;span style="color:#FFFF00"&gt;不一定都要別人教&lt;/span&gt;
+## 會安排&lt;small&gt;&lt;span style="color:#FF0080"&gt;高效&lt;/span&gt;&lt;/small&gt;可執行流程-&gt;展現&lt;span style="color:#FFFF00"&gt;執行力&lt;/span&gt;
+&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
+## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;想像力-&gt;不受限, &lt;span style="color:#FFFF00"&gt;積極進行改造&lt;/span&gt;
+
+</t>
+<t tx="leo.20161114103720.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103720.13"># 自學的訓練
+
+## 學員必須自己有學習動機
+## 能消化中英文資料
+## 從中體會學習的意義
+
+
+</t>
+<t tx="leo.20161114103720.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103720.15"># 高效執行力
+
+## 用對的方法
+## 在對的時機
+## 找對的人
+## 作對的事
+
+
+</t>
+<t tx="leo.20161114103720.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103720.3">## 電腦輔助設計在教什麼?
+
+### 創造力
+### 表達力
+以及
+### 協同力
+
+</t>
+<t tx="leo.20161114103720.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103720.5"># CAD 在教什麼?
+
+## &lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;&lt;small&gt;=自學力+程式力+想像力&lt;/small&gt;
+## &lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;&lt;small&gt;=口語+文字+2D+3D+理論+實體&lt;/small&gt;
+&lt;span style="color:#00FF80"&gt;以及&lt;/span&gt;
+## &lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;&lt;small&gt;=電腦+網路+工具+專案&lt;/small&gt;
+
+</t>
+<t tx="leo.20161114103720.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103720.7"># CAD 系列課程
+
+## 計算機程式
+## 網際內容管理
+&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
+## 協同產品設計實習
+也在研習&lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;、&lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;與&lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;
+
+</t>
+<t tx="leo.20161114103720.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103720.9"># 何謂創造力?
+
+## 能夠&lt;small&gt;&lt;span style="color:#FF0080"&gt;持續&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;自學&lt;/span&gt;
+## 會安排&lt;small&gt;&lt;span style="color:#FF0080"&gt;高效&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;可執行&lt;/span&gt;流程
+&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
+## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;想像力&lt;/span&gt;
+
+</t>
+<t tx="leo.20161114103728.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161114103728.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103728.3"># 電腦輔助設計實習課程規劃
+
+## [課程規劃](https://github.com/mdecourse/2016fallcadp/blob/master/syllabus.py)
+## [課程 Wiki](https://github.com/mdecourse/2016fallcadp/wiki)
+## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcadp.html)
+
+</t>
+<t tx="leo.20161114103728.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103728.5">## 下載 miniconda 可攜環境
+
+  * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
+  * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
+  * start.bat 啟動, stop.bat 關閉
+  * 建議存在隨身硬碟中使用
+
+
+</t>
+<t tx="leo.20161114103728.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103728.7">## 學員自評項目
+
+* 上課筆記與心得寫在個人的 2016fallcadp_hw 倉儲 Wiki 中
+* 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
+* 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
+* 每週更新個人與分組的 Github Pages 投影片與網誌</t>
+<t tx="leo.20161114103736.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
+<t tx="leo.20161114103736.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103736.11">## OnShape 實習
+
+  * OnShape 零件繪製
+  * OnShape 零件組立
+  * Delta 3D Printer 機構模擬
+  * 平面四連桿機構模擬與驗證
+  * 平面多連桿機構模擬與驗證
+  * Featurescript 範例操作
+</t>
+<t tx="leo.20161114103736.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103736.13">## OnShape 實習
+
+  * 請根據[Nutcracker手冊](http://chiamingyen.github.io/kmolab_data/files/ProEMechanism.pdf)說明完成零件繪製
+  * 請完成 Nutcracker 零件組立
+  * 請完成與手冊格式類似的 pdf 導引教材 (How？)
+  * 請完成零件繪製教學影片(語音或字幕說明)並上傳到 Vimeo 與 Youtube
+  * 若採用 Solvespace, 可否完成上述相同零組件繪製與組立?
+  * 如何精確得知機構運動過程的約束位置?
+</t>
+<t tx="leo.20161114103736.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103736.15">## 機電資產品的設計考量
+
+  * 請收集與 Delta 3D printer 有關的資料
+  * 請設法利用 CAD 套件完成零組件繪製與模擬
+  * 上述模擬過程對於產品的開發有何用意?
+  * 請討論如何完成一台可以正常列印的 Delta Printer？
+
+</t>
+<t tx="leo.20161114103736.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103736.17">## Flask 網際程式
+
+  * 以 CMSimfly 為例
+  * 以 PyGrouf 為例
+  * 以 Jupyterhub 為例
+</t>
+<t tx="leo.20161114103736.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103736.3">## 電腦輔助設計實習課程
+
+教學主題
+
+  * 課程網頁、學員網頁、分組網頁串連
+  * Solvespace 零組件繪圖與機構模擬
+  * OnShape 零組件繪圖與機構模擬
+  * Delta 3D printer 零組件繪圖與模擬
+  * Delta 3D printer 零組件列印組立
+  * 建立網際自評系統
+
+
+</t>
+<t tx="leo.20161114103736.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103736.5">## Github Pages 網頁
+
+各學員必須完成
+
+  * 個人網頁
+  * Solvespace 零組件繪圖與機構模擬
+  * OnShape 零組件繪圖與機構模擬
+  * Delta 3D printer 零組件繪圖與模擬
+  * 利用 Delta 3D printer 列印零組件並組立
+  * 建立網際自評系統
+</t>
+<t tx="leo.20161114103736.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103736.7">## 操作影片錄製
+
+  * Windows 環境下使用 ShareX
+  * Ubuntu 環境下使用 Kazam
+  * 影片檔岸上傳到 Vimeo
+  * 影片檔案上傳到 Youtube
+  * 在投影片與網誌中嵌入影片檔
+</t>
+<t tx="leo.20161114103736.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103736.9">## Solvespace 實習
+
+  * Solvespace 零件繪製
+  * Solvespace 零件組立
+  * Delta 3D Printer 機構模擬
+  * 平面四連桿機構模擬與驗證
+  * 平面多連桿機構模擬與驗證
+  * Solvespace 程式編譯
+</t>
+<t tx="leo.20161114103743.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161114103743.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103743.3"># Github 倉儲網頁
+
+####建立個人 Github 網頁 (帳號.github.io)
+####建立個人課程作業網頁 (納入投影片與網誌架構)
+####組長建立分組的評量網頁 (納入投影片與網誌架構)
+</t>
+<t tx="leo.20161114103743.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103743.5"># 學員作業網頁定版
+
+###個人作業網頁內容可以隨時改版
+###分組評量網頁必須在指定時間前定版
+###Github 倉儲 gh-pages分支與子模組應用
+</t>
+<t tx="leo.20161114103743.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103743.7"># Github 倉儲拉回請求
+
+####分組倉儲 Collaborators 設定
+####分組倉儲版本 Pull Requests 練習
+####各組員實際操作影片錄製
+####操作影片加字幕以及影片檔相加
+</t>
+<t tx="leo.20161114103749.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161114103749.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161114103749.3"># 數學符號與方程式
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+</t>
+<t tx="leo.20161114103749.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161114103749.5">## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+@language python
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
+
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+</t>
+<t tx="leo.20161114103749.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114103749.7">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="yen.20161022120729.1">@language python
 import os
 import subprocess
