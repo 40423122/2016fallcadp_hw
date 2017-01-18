@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 電腦輔助設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/hw.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T12:08:00+08:00</updated><entry><title>40423122 01/12</title><link href="./40423122-0112.html" rel="alternate"></link><updated>2017-01-12T12:08:00+08:00</updated><author><name>40423122</name></author><id>tag:,2017-01-12:./40423122-0112.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="作業"></category></entry><entry><title>40423122 01/12 電腦輔助設計課程總結</title><link href="./40423122-0112-dian-nao-fu-zhu-she-ji-ke-cheng-zong-jie.html" rel="alternate"></link><updated>2017-01-12T12:08:00+08:00</updated><author><name>40423122</name></author><id>tag:,2017-01-12:./40423122-0112-dian-nao-fu-zhu-she-ji-ke-cheng-zong-jie.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 電腦輔助設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/hw.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T12:08:00+08:00</updated><entry><title>40423122 01/12 電腦輔助設計課程總結</title><link href="./40423122-0112-dian-nao-fu-zhu-she-ji-ke-cheng-zong-jie.html" rel="alternate"></link><updated>2017-01-12T12:08:00+08:00</updated><author><name>40423122</name></author><id>tag:,2017-01-12:./40423122-0112-dian-nao-fu-zhu-she-ji-ke-cheng-zong-jie.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/199993199" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -27,7 +27,11 @@
 
 &lt;iframe src="https://player.vimeo.com/video/199999732" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/199999732"&gt;hw1-3&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>40423122 12/1作業</title><link href="./40423122-121zuo-ye.html" rel="alternate"></link><updated>2016-12-01T11:00:00+08:00</updated><author><name>40423122</name></author><id>tag:,2016-12-01:./40423122-121zuo-ye.html</id><summary type="html">&lt;p&gt;40423122 12/1作業&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199999732"&gt;hw1-3&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/200006361" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/200006361"&gt;Untitled&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>40423122 12/1作業</title><link href="./40423122-121zuo-ye.html" rel="alternate"></link><updated>2016-12-01T11:00:00+08:00</updated><author><name>40423122</name></author><id>tag:,2016-12-01:./40423122-121zuo-ye.html</id><summary type="html">&lt;p&gt;40423122 12/1作業&lt;/p&gt;
 
 
 &lt;h2&gt;Solvespace 組合圖&lt;/h2&gt;</summary><category term="作業"></category></entry><entry><title>40423122 11/24作業</title><link href="./40423122-1124zuo-ye.html" rel="alternate"></link><updated>2016-11-24T11:00:00+08:00</updated><author><name>40423122</name></author><id>tag:,2016-11-24:./40423122-1124zuo-ye.html</id><summary type="html">&lt;p&gt;40423122 11/24作業&lt;/p&gt;
@@ -147,6 +151,15 @@ ctx.strokeStyle = "blue"
 # 實際執行畫線
 ctx.stroke()
 ctx.closePath()
+
+
+&lt;iframe src="https://player.vimeo.com/video/200006361" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/200006361"&gt;Untitled&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+
 &lt;/script&gt;</summary><category term="作業"></category></entry><entry><title>40423122 10/27作業</title><link href="./40423122-1027zuo-ye.html" rel="alternate"></link><updated>2016-10-27T11:00:00+08:00</updated><author><name>40423122</name></author><id>tag:,2016-10-27:./40423122-1027zuo-ye.html</id><summary type="html">&lt;p&gt;40423122 10/27作業&lt;/p&gt;
-</summary><category term="作業"></category></entry><entry><title>40423122 9/29作業</title><link href="./40423122-929zuo-ye.html" rel="alternate"></link><updated>2016-10-06T11:00:00+08:00</updated><author><name>40423122</name></author><id>tag:,2016-10-06:./40423122-929zuo-ye.html</id><summary type="html">&lt;p&gt;40423122 9/29作業&lt;/p&gt;
+
+
+&lt;p&gt;Week 6 方法 從SciTE打開,在2016fallcadp_bg6資料夾內的.gitmodules檔案,把該組員的子模組設定刪除後就可以存檔 各組需跟組員做連結&lt;p&gt;</summary><category term="作業"></category></entry><entry><title>40423122 9/29作業</title><link href="./40423122-929zuo-ye.html" rel="alternate"></link><updated>2016-10-06T11:00:00+08:00</updated><author><name>40423122</name></author><id>tag:,2016-10-06:./40423122-929zuo-ye.html</id><summary type="html">&lt;p&gt;40423122 9/29作業&lt;/p&gt;
 </summary><category term="作業"></category></entry></feed>
