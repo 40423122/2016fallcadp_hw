@@ -5,3 +5,6 @@
 2016fallcadp 課程投影片: https://40423122.github.io/2016fallcadp_hw/#/
 
 2016fallcadp 課程網誌: https://40423122.github.io/2016fallcadp_hw/blog/index.html
+
+
+123
